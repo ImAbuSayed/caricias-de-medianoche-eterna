@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-de-medianoche-eterna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Caricias de medianoche eterna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-medianoche-eterna/) |
+| **Get License** | [License this song: Caricias de medianoche eterna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-medianoche-eterna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0c45665fc4159cab33304a1b5b30d31f552ae1408363d8bb7692ac5f363b0173` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
