@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-de-medianoche-eterna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Caricias de medianoche eterna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-medianoche-eterna/) |
+| **Get License** | [Obtain a Music License for Caricias de medianoche eterna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-medianoche-eterna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus ojos me llaman, brillando en la oscuridad
+> Un beso tuyo me quita la gravedad
+> Bailamos lento, mami, perdiendo la cordura
+> Tú y yo esta noche, mi amor, rompiendo la censura
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
