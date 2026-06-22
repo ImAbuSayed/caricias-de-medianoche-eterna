@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Caricias de medianoche eterna |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 22, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-de-medianoche-eterna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Caricias de medianoche eterna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-medianoche-eterna/) |
+| **Get License** | [Request Licensing for Caricias de medianoche eterna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-medianoche-eterna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Tus ojos me llaman, brillando en la oscuridad
-> Un beso tuyo me quita la gravedad
-> Bailamos lento, mami, perdiendo la cordura
-> Tú y yo esta noche, mi amor, rompiendo la censura
+> Caricias de medianoche eterna
+> Tu piel en llamas, mi alma en alerta
+> El reloj se para cuando te acercas
+> Noches de fuego que nadie nos arrebata
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
