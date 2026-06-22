@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Caricias
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-22T05:57:56.226308 | `v1` | `0c45665fc4159cab33304a1b5b30d31f552ae1408363d8bb7692ac5f363b0173` | `60548142189526d137d8a31820c96859f8d0a623e898422ad71bd0644d38885f` | `2026-06-22_caricias-de-medianoche-eterna-v1.txt` |
+| 2026-06-22T06:22:07.124000 | `v2` | `343343042f522e21346ac2ed20bef53f2ef472e0f91da78452ce17b96f315db5` | `fd9f21b33984c76d8dcbfab9818d81373aaa9bddce2cba45eca38fba55c3b17c` | `2026-06-22_caricias-de-medianoche-eterna-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
